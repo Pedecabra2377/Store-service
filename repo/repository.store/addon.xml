@@ -2,9 +2,9 @@
 <addon id="repository.store" name="MS-Store" version="" provider-name="">
     <extension point="xbmc.addon.repository" name="MS-Store">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Pedecabra2377/Store-service/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Pedecabra2377/Store-service/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Pedecabra2377/Store-service/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/Pedecabra2377/Store-service/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Pedecabra2377/Store-service/main/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Pedecabra2377/Store-service/main/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
