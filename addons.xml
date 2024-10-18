@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="game.spaceline" version="0.1.5" name="" provider-name="">
+	<requires>	
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>game</provides>
+</extension> 
+</addon>
+</addons>
